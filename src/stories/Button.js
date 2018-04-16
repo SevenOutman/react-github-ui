@@ -5,7 +5,9 @@ import ButtonGroup from '../components/Button/ButtonGroup';
 
 storiesOf('Button', module)
   .add('btn', () => (
-    <Button>Button</Button>
+      <div className='p-4'>
+        <Button>Button</Button>
+      </div>
   ))
   .add('btn-primary', () => (
     <div className='p-4 d-flex flex-justify-between'>
