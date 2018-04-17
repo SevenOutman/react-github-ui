@@ -9,3 +9,5 @@ import './Breadcrumb';
 import './Button';
 
 import './Labels';
+
+import './Navigation';
