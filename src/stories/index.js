@@ -12,3 +12,4 @@ import './Labels';
 
 import './Navigation';
 import './Popover';
+import './Subhead';

@@ -1,8 +1,5 @@
 import React from 'react'
 import { storiesOf } from '@storybook/react'
-import { Label, State } from '../components/Label';
-import Counter from '../components/Label/Counter';
-import Box from '../components/Box';
 import Popover from '../components/Popover';
 import Button from '../components/Button/Button';
 
