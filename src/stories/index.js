@@ -11,3 +11,4 @@ import './Button';
 import './Labels';
 
 import './Navigation';
+import './Popover';
